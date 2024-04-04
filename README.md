@@ -1,35 +1,25 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
-Bienvenidos a
-# Programación con objetos I
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+# Marcelo Edgardo Sanchez
 
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
+Hola me llamo Marcelo , estoy en el segundo aÃ±o de la Tecnicatura en Programacion. Ingrese en el 2021 con amigos para estudiar juntos esta carrera.
 
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisión 1 **turno noche**: Martes 18 a 22hs y Sábado 10 a 12hs.
-* Horario comisión 2 **turno mañana**: Miércoles 8 a 12hs y Sábado 10 a 12hs. 
-* Este cuatrimestre los profesores somos Gerardo González Tulian, Lucas Spigariol, Cristian Ciarallo y Hernán Coniglio
-* Además nos acompañan como colaboradores Valentino Chiappanni, Manuel Nuñez y Lucian Coniglio.
+Soy jugador de Basquet semi-profecional, y tambien represente a la universidad en las disiplinas basquet 5x5 y 3x3 en los juegos universitarios.
 
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/13rFU2mObqdFF_2Ocimey_oHJ0Ldv-Gx0S1N4cfHKO4Q/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.gg/tqyHtPt) y ver el canal de Discord.
+Siempre me gusto la tecnologia y como desarrolar nuevas aplicaciones para la vida cotidiana o profesional.
 
 
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
+## Mis Gustos
+* Como comente antes soy jugador de basquet asi que obviamente me gusta el basquet ante todo, lo practico desde muy chico y espero seguir practicando por mucho mas tiempo.
+* Tambien me gustan los VideoJuegos , sobre todo los competitivos.
+* mi objetivo actual es poder conseguir un trabajo en IT para poder desarrollarme como un programador profesional .
 
-* [Guía Ràpida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
 
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+## Mis Redes  :monocle_face:
+- [x] [GitHub](https://github.com/MarceloSanchezDev)  
+- [x] [Linkedin](https://www.linkedin.com/in/marcelo-s%C3%A1nchez-a76772241/) 
+- [x] [Instagram](https://www.instagram.com/marcelosanchez_4/) 
+
+
+
